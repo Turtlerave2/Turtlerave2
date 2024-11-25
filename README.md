@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 Welcome to my GitHub profile! I'm Leo, a passionate software developer.
 
