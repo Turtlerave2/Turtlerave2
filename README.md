@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm Leo, a passionate software developer.
 
 ## 🚀 About Me
 - 🌱 I’m currently learning German and learning React and Angular frameworks.
-- 🏍️ I have achieved my dream of leaing how to riding a motorcycle.
-- 🌍 I know English, Latvian, Russian and German.
+- 🏍️ I have achieved my dream of learning how to ride a motorcycle.
+- 🌍 I know English, Latvian, Russian and German (Doulingo level).
 
 - ## 🛠 Skills
 - Programming languages: Javascrips, HTML, CSS, Powershell, Java, C#, PHP etc...
