@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm Leo, a passionate software developer.
 
 - ## 🛠 Skills
 - Programming languages: Javascrips, HTML, CSS, Powershell, Java, C#, PHP etc...
-- Frameworks: Bootstrap, GitLab
+- Frameworks: Bootstrap, GitLab, Maven
 - Tools: Git, Visual studio, Netbeans, Visual Studio, Intellij
 
 - ## 📫 Connect with Me
